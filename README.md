@@ -4,4 +4,4 @@ Hi there 👋 Welcome to my Github page
 
 🌱 I’m currently learning Typescript
 
-📫 How to reach me: aurrelkondi@hotmail.com
+📫 How to reach me: aurrelkondi@gmail.com
